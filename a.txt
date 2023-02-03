@@ -1,2 +1,3 @@
 Hello, Akshay Patil here !
-aveden oltrax
+Asterisk oltrax
+this text is added after adding file to staging index
